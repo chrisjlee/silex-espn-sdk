@@ -11,6 +11,7 @@ class Config {
   // API Key
   protected $key = array();
   protected $secret;
+
   /**
    *
    */
